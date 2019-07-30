@@ -23,7 +23,7 @@ The page is supposed to show some graphical representation of the patient's heal
 
 In Basic Info, Patients are allowed to modify their service language by choosing English or French.
 In Health Profile, Patients are allowed to add more Dietary Regimen or Advance Directives by choosing from the option lists.
-Patients can also update their contact information/caregivers' contact information. Every Save action needs checking which input value is updated and calling the specific api method. Patients are not able to edit Physicians subpage.
+Patients can also update their contact information/caregivers' contact information. Every Save action needs checking which input value is updated and calling the specific api method. The address autocomplete is disabled for now because of a Google Places API Billing issue. Patients are not able to edit Physicians subpage.
 
 ## Alerts
 
