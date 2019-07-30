@@ -1,6 +1,7 @@
 # MyPHR Portal
 
 <strong>Author: Wenyan Li</strong> <br>
+(The repository is duplicated from my private MyPHR_Portal repository)
 
 [MyPHR Portal](https://myphr-portal.firebaseapp.com/) is a patient endpoint of a patient-centric health data sharing system can be built using React and emerging support tools such as Google Sign-In and Google Places. The endpoint allows patients to view their health profile, activities and episodes, configure alerts as well as add/edit information. The CRUD operations are supported by a Python Flask API called MyPHR API.
 
