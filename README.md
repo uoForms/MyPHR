@@ -12,7 +12,7 @@ The account can be used to login: <br>
 username: H7777666699  
 password:mypass
 
-Google OAuth is implemented with buttom "Login with Google", the account information can be retrieved after signing in with the correct credentials. Afterward steps about creating a new user in db is not implemented yet on api side.  
+Google OAuth is implemented with button "Login with Google", the account information can be retrieved after signing in with the correct credentials. Afterward steps about creating a new user in db is not implemented yet on api side.  
 
 ## Dashboard Page
 
@@ -22,7 +22,7 @@ The page is supposed to show some graphical representation of the patient's heal
 
 In Basic Info, Patients are allowed to modify their service language by choosing English or French.
 In Health Profile, Patients are allowed to add more Dietary Regimen or Advance Directives by choosing from the option lists.
-Patients can also update their contact information/caregivers' contact infomation. Every Save action needs checking which input value is updated and calling the specific api method. Patients are not able to edit Pysicians subpage.
+Patients can also update their contact information/caregivers' contact information. Every Save action needs checking which input value is updated and calling the specific api method. Patients are not able to edit Physicians subpage.
 
 ## Alerts
 
