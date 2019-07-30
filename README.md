@@ -26,9 +26,7 @@ Patients can also update their contact information/caregivers' contact informati
 
 ## Alerts
 
-This page is hard coded now because there is no corresponding endpoint for it currently on api side.
-
-
+Since there is no corresponding endpoint for alerts currently on api side. The text of the page is hard coded, and the date are called from a mock api. 
 
 
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
